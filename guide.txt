@@ -1,0 +1,5 @@
+source : https://devops4solutions.com/deploy-a-tomcat-application-using-docker-compose/
+
+Mots clés : docker, docker-compose, tomcat, MySQL
+
+Le but de ce TP est d'installer tomcat avec MySQL en utilisant docker-compose
